@@ -6,3 +6,4 @@ public class Diego extends ElfoGenerico {
 		super("Diegu", SeccionLaboralElfo.DISFRACES);
 	}
 }
+
